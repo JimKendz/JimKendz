@@ -10,8 +10,6 @@
 
 <br />
 
-  <img align="right" alt="Profile Picture" src="/images/portrait.png" width="200" height="200" />
-  
 ### 👨‍💻 Languages and Tools
 
 <br />
